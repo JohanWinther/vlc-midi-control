@@ -1,0 +1,12 @@
+{
+    "vlc":
+    {
+        "server": "localhost:8080",
+        "password": "1337",
+        "playlist": "C:\\Users\\johan\\Videos\\test2.xspf"
+    },
+    "midi":
+    {
+        "port": "VLC"
+    }
+}

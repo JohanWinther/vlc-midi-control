@@ -1,0 +1,16 @@
+{
+  "name": "vlc-midi-control",
+  "version": "0.1.0",
+  "description": "Control VLC via MIDI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Johan Winther",
+  "license": "MIT",
+  "dependencies": {
+    "jzz": "^0.7.1",
+    "request": "^2.88.0"
+  }
+}
